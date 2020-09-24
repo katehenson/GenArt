@@ -5,7 +5,7 @@ function start(){
  t.c.lineWidth=1;
 t.c.strokeStyle="blue";
 t.fd(100);t.rt(45);t.fd(100);t.rt(45);
-sq();
+sq();t.fd(100);hex();
 }
 
 function clear_Can(){
