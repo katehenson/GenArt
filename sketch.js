@@ -4,7 +4,7 @@ function start(){
  t=new logo(300,100,0,"can1");
  t.c.lineWidth=1;
 t.c.strokeStyle="blue";
-t.fd(100);t.rt(45);
+t.fd(100);t.rt(45);t.fd(100);t.rt(45);
 sq();
 }
 
