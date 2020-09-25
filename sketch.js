@@ -5,7 +5,7 @@ function start(){
  t.c.lineWidth=1;
 t.c.strokeStyle="blue";
 t.fd(100);t.rt(45);t.fd(100);t.rt(45);
-sq();t.fd(100);hex();
+hex();
 for(let j=0;j<10;j=j+1){
 	hex();t.rt(36);t.fd(j*5);
 }
