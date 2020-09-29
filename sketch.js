@@ -2,7 +2,7 @@ let t;
 function start(){
  t=new logo(300,100,0,"can1");
  t.c.lineWidth=1;
-t.c.strokeStyle="blue";
+t.c.strokeStyle="rgb(248,131,121)";
 
 like1();
 }
