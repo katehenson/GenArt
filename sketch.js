@@ -4,9 +4,9 @@ function start(){
  t.c.lineWidth=1;
 t.c.strokeStyle="blue";
 //sq();
-for(let j=0;j<10;j=j+1){
+for(let j=0;j<12;j=j+1){
 t.fd(100);t.bk(100);
-t.rt(36);
+t.rt(30);
 }
 }
 
