@@ -1,4 +1,4 @@
-#can1{border:red double 10px;}
+#can1{border:rgb(255,255,0) dotted 10px;}
 
-#but1{position:absolute;left:850px;top:50px;border:rgb(175,238,238) solid 5px;}
+#but1{position:absolute;left:850px;top:50px;border:rgb(64,224,208) solid 5px;}
 #but2{position:absolute;left:850px;top:100px;border:rgb(200,162,200) solid 5px;}
